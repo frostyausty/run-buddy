@@ -12,3 +12,5 @@ https://frostyausty.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Austin Price
+
+### ©️2019 Run Buddy, Inc
